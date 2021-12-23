@@ -1,7 +1,7 @@
 package com.vishnu.udemy;
 
 public class SecondsAndMinutesChallenge {
-
+//Udemy Code Challenge
     public static void main(String[] args){
         //Seconds and Minutes Challenge
         System.out.println(getDuration(61, 0));
